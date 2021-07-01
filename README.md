@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Senior software engineer, builder of open source projects, comics enthusiast and amateur photographer. Organiser and host 
+@SibiuWebMeetup
+
+![stefan-cosma-f3Yk7gW6chM-unsplash](https://user-images.githubusercontent.com/1278794/124079310-a1ff4780-da51-11eb-9363-a2899e93d28f.jpg)
+
 <!--
 **stefanbc/stefanbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
