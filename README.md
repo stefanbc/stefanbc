@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-Senior software engineer, builder of open source projects, comics enthusiast and amateur photographer. Organiser and host 
-@SibiuWebMeetup
+I'm currently working for, Sibiu based, Ropardo, as a senior front-end developer. I previously worked for Romania based Smart Bill, where I helped in building their invoicing platform and San Francisco based, Koding Inc., where I helped develop their cloud development environment and developer community as a front-end developer and community lead.
+
+I'm an active promoter of the open source movement, always developing new and exciting projects.
+
+Currently I'm building a local web community, in Sibiu, the @SibiuWebMeetup.
+
+PS. Also a comics enthusiast and amateur photographer (checkout my photos [here](https://unsplash.com/stefanbc)).
 
 ![stefan-cosma-f3Yk7gW6chM-unsplash](https://user-images.githubusercontent.com/1278794/124079310-a1ff4780-da51-11eb-9363-a2899e93d28f.jpg)
 
