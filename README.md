@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working for, Sibiu based, Ropardo, as a senior frontend developer. I previously worked for Romania based Smart Bill, where I helped in building their invoicing platform and San Francisco based, Koding Inc., where I helped develop their cloud development environment and developer community as a front-end developer and community lead.
+I'm currently working for, Sibiu based, Ropardo, as a senior frontend developer. I previously worked for Romania based Smart Bill, where I helped in building their invoicing platform and San Francisco based, Koding Inc., where I helped develop their cloud development environment and developer community as a frontend developer and community lead.
 
 I'm an active promoter of the open source movement, always developing new and exciting projects.
 
