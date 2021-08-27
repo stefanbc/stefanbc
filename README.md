@@ -4,7 +4,7 @@ I'm currently working for, Sibiu based, Ropardo, as a senior frontend developer.
 
 I'm an active promoter of the open source movement, always developing new and exciting projects.
 
-Currently I'm building a local web community, in Sibiu, the @SibiuWebMeetup.
+Currently I'm building a local web community, in Sibiu, the [@SibiuWebMeetup](https://github.com/sibiuwebmeetup).
 
 PS. Also a comics enthusiast and amateur photographer (checkout my photos [here](https://unsplash.com/stefanbc)).
 
