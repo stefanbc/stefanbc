@@ -4,7 +4,7 @@ I’m a Lead Frontend Developer with 15+ years of experience crafting high-end d
 
 ## 🚀 At a Glance
 - Expertise: Modular architecture, digital transformation, and scaling platforms for thousands of users.
-- Community: Organizer of Sibiu Web Meetup and Co-organizer of Friendly.rb.
+- Community: Organizer of [Sibiu Web Meetup](https://sibiuwebmeetup.org) and Co-organizer of [Friendly.rb](https://friendlyrb.com).
 - Past: Scaled developer communities at Koding (San Francisco) and built mission-critical tools at SmartBill.
 
 ## 📸 Beyond the Code
