@@ -1,28 +1,18 @@
-# Hello there! 👋
+# Hi there, I'm Stefan! 👋
 
-I am a seasoned senior software engineer at Ropardo, a prominent company based in Sibiu. My expertise lies in frontend development, which is where I mainly focus my work efforts.
+I’m a Lead Frontend Developer with 15+ years of experience crafting high-end digital products at the intersection of engineering and elite UX. Currently, I lead frontend strategy at Ropardo, architecting enterprise SPAs and design systems for complex industries like Automotive and Healthcare.
 
-In the past, I have contributed to various projects for SmartBill, spearheaded a community of over 1.5 million members, and developed exceptional products for Koding, a San Francisco-based company. Furthermore, I have built and helped with the development of presentation websites and online stores for small businesses at Sensmedia.
+## 🚀 At a Glance
+- Expertise: Modular architecture, digital transformation, and scaling platforms for thousands of users.
+- Community: Organizer of Sibiu Web Meetup and Co-organizer of Friendly.rb.
+- Past: Scaled developer communities at Koding (San Francisco) and built mission-critical tools at SmartBill.
 
-As a passionate advocate of the open-source movement, I am always on the lookout for fresh and innovative projects to work on. Currently, I am dedicated to constructing a local web community called [@SibiuWebMeetup](https://github.com/sibiuwebmeetup) in Sibiu.
+## 📸 Beyond the Code
+When I'm not architecting systems, I'm:
 
-If you need to contact me, please don't hesitate to drop me an email at [hello@stefancosma.xyz](mailto:hello@stefancosma.xyz) or look me up on most social media platforms using the handle @stefanbc.
+- Capturing the world through a lens (find me on [Unsplash](https://unsplash.com/stefanbc)).
+- Spinning vinyl or playing on retro consoles.
+- Out running or biking to reset.
 
-On a personal note, I am an avid comics enthusiast and amateur photographer, and you can often find me indulging in these hobbies in my free time.
-
-Please note that I usually respond to messages within 1-2 business days.
-
-<!--
-**stefanbc/stefanbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+[Website](https://stefancosma.xyz) • [LinkedIn](https://linkedin.com/in/stefanbc) • [X](https://x.com/stefanbc)
